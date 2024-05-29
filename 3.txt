@@ -1,2 +1,5 @@
+<<<<<<< HEAD
  Hi this is 3.txt file
 this is 2 time to editing in this file
+=======
+>>>>>>> parent of 4f3c219 (This is 3.txt file)
